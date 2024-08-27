@@ -1,5 +1,4 @@
-Hi! I'm Esther :)
-- Cognitive Science student @ McGill University
+cogsci @ mcgill university
 
 <!---
 prawnieux/prawnieux is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
